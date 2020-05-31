@@ -1,6 +1,6 @@
 import data from '../data/links'
-import Topic from './components/Topic'
-import Navigation from './components/Navigation';
+import Topic from '../components/Topic'
+import Navigation from '../components/Navigation';
 
 export async function getStaticProps(context) {
   return {
