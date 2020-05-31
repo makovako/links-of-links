@@ -39,11 +39,35 @@ body {
 }
 
 .links a {
-    display: inline;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin: 0.5rem;
     padding: 1rem;
     border: 1px solid white;
     text-decoration: none;
     color: var(--heading-fornt-color);
     flex-grow: 1;
+}
+
+.links a > * {
+    padding: 0.5rem;
+}
+
+.links a h2 span {
+    visibility: hidden;
+}
+
+.links a > span{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 1.5rem;
+    height: 1.5rem; 
+    font-weight: bold;
+    padding: 0.3rem;
+    text-align: center;
+    font-family: monospace;
 }
