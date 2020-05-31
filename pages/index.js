@@ -1,5 +1,6 @@
 import data from '../data/links'
 import Topic from './components/Topic'
+import Navigation from './components/Navigation';
 
 export async function getStaticProps(context) {
   return {
@@ -9,13 +10,12 @@ export async function getStaticProps(context) {
 
 
 export default function Home({data}) {
-  console.log({data});
   return (
-    
-    <div className="container">
-      {data.map(topic => (
-        <Topic key={topic.topic} topic={topic}/>
-      ))}
-    </div>
+      <div className="container">
+        <Navigation data={data}/>
+        {data.map(topic => (
+          <Topic key={topic.topic} topic={topic}/>
+        ))}
+      </div>
   )
 }

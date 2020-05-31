@@ -72,3 +72,18 @@ body {
     text-align: center;
     font-family: monospace;
 }
+
+nav {
+    padding: 0.5rem 0.2rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--heading-fornt-color);
+    padding: 0.2rem 0.3rem;
+}
