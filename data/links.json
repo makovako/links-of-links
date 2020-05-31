@@ -1,0 +1,56 @@
+[
+    {
+        "topic": "reddit",
+        "title": "Reddit",
+        "links": [
+            {
+                "title": "Reddit 1",
+                "excerpt": "Small description",
+                "description": "Description of reddit one.",
+                "url": "https://www.reddit.com"
+            },
+            {
+                "title": "Reddit 2",
+                "excerpt": "Small description",
+                "description": "Description of reddit one.",
+                "url": "https://www.reddit.com"
+            },
+            {
+                "title": "Reddit 3",
+                "excerpt": "Small description",
+                "description": "Description of reddit one.",
+                "url": "https://www.reddit.com"
+            },
+            {
+                "title": "Reddit 4",
+                "excerpt": "Small description",
+                "description": "Description of reddit one.",
+                "url": "https://www.reddit.com"
+            }
+        ]
+    },
+    {
+        "topic": "selfhosted",
+        "title": "Selfhosted",
+        "links": [
+            {
+                "title": "Selfhosted 1",
+                "excerpt": "Small description",
+                "description": "Some long description",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Selfhosted 2",
+                "excerpt": "Small description",
+                "description": "Some long description",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Selfhosted 3",
+                "excerpt": "Small description",
+                "description": "Some long description",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+]
