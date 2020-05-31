@@ -1,36 +1,21 @@
+import data from '../data/links'
+import Topic from './components/Topic'
+
 export async function getStaticProps(context) {
   return {
-    props: {msg: "Hello World"}, // will be passed to the page component as props
+    props: {data},
   }
 }
 
 
-export default function Home({msg}) {
-  // console.log({props});
+export default function Home({data}) {
+  console.log({data});
   return (
     
     <div className="container">
-      Hello World
-      {msg}
-
-      <style jsx>{`
-        
-      `}</style>
-
-      <style jsx global>{`
-        html,
-        body {
-          padding: 0;
-          margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
-        }
-
-        * {
-          box-sizing: border-box;
-        }
-      `}</style>
+      {data.map(topic => (
+        <Topic key={topic.topic} topic={topic}/>
+      ))}
     </div>
   )
 }
