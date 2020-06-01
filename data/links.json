@@ -14,6 +14,24 @@
                 "excerpt": "Blog of Alex Kretzschmar",
                 "description": "",
                 "url": "https://blog.ktz.me/"
+            },
+            {
+                "title": "Elementary OS blog",
+                "excerpt": "Main elementary os blog",
+                "description": "",
+                "url": "https://blog.elementary.io/"
+            },
+            {
+                "title": "OMG!Ubuntu",
+                "excerpt": "OMG Ubuntu news site",
+                "description": "",
+                "url": "https://www.omgubuntu.co.uk/"
+            },
+            {
+                "title": "The Linux EXP",
+                "excerpt": "The linux experiment blog",
+                "description": "",
+                "url": "https://www.thelinuxexp.com/"
             }
         ]
     },
