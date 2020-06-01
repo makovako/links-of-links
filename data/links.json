@@ -514,12 +514,6 @@
                 "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/index.htm"
             },
             {
-                "title": "1loc Dev",
-                "excerpt": "Simple javascript utilities in one line of code",
-                "description": "Simple javascript utilities in one line of code",
-                "url": "https://1loc.dev/"
-            },
-            {
                 "title": "Regex 101",
                 "excerpt": "Simple regex online matcher and explainer",
                 "description": "Simple regex online matcher and explainer",
