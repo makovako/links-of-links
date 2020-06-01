@@ -24,6 +24,41 @@
         ]
     },
     {
+        "topic": "design",
+        "title": "Design",
+        "links": [
+            {
+                "title": "17 design channels",
+                "excerpt": "Youtube Video",
+                "description": "- jesse showlater - ui,ux,adobe xd,figma\n- caler edwards - ui, ux, xd\n- charlie marie\n- dansky - ui, adobe\n- howard pinsky - adobe evangelist\n- flux\n- the futur\n- maex - sketch, webflow\n- mike locke\n- sarah duty - ux\n- nngroup - short ux\n- satori graphics - illustrations\n- gigantic - illustrations\n- the simple designers - illustrations, logo\n- iroh design  - no voiceover\n- zimri mayfield - logo, identity design\n- will paterson - identity design, handlettering",
+                "url": "https://www.youtube.com/watch?v=dYRD_6OLOvE"
+            },
+            {
+                "title": "Colors.lol",
+                "excerpt": "Color palette",
+                "description": "Color palette",
+                "url": "https://colors.lol/"
+            },
+            {
+                "title": "Colors and fonts",
+                "excerpt": "Different color palettes and gradients",
+                "description": "Different color palettes and gradients",
+                "url": "https://www.colorsandfonts.com/"
+            },
+            {
+                "title": "Design resources - Brad Traversy",
+                "excerpt": "Design resources for developers",
+                "description": "Design resources for developers",
+                "url": "https://github.com/bradtraversy/design-resources-for-developers"
+            },
+            {
+                "title": "Dribbble",
+                "excerpt": "Discover the world’s top designers & creatives",
+                "description": "Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.",
+                "url": "https://dribbble.com/"
+            }
+        ]
+    },
     {
         "topic": "exercise",
         "title": "Exercise",
