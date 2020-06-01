@@ -1,20 +1,18 @@
 import React, {useState} from 'react'
 
 
-export default function Link({link}) {
-    const [description, setDescription] = useState(false);
+export default function Link({link, setModal}) {
 
-    function toggleDescription(e) {
+    function infoClicked(e) {
         e.preventDefault()
-        setDescription(!description)
+        setModal(link)
     }
 
     return (
         <a target="_self" href={link.url} norefferer="true" noopener="true" nofollow="true">
             <h2>{link.title}<span>x</span></h2>
             <p>{link.excerpt}</p>
-            {description ? (<p>{link.description}</p>) : null}
-            <span onClick={toggleDescription}>{description ? "x" : "i"}</span>
+            <span onClick={infoClicked}>i</span>
         </a>
     )
 }

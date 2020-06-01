@@ -93,3 +93,30 @@ nav a {
     color: var(--heading-fornt-color);
     padding: 0.2rem 0.3rem;
 }
+
+.modal{
+    
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    color: #000;
+    background-color: #fff;
+    padding: 1rem;
+}
+
+
+.modal .modal-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 900px;
+}
+
+.modal .modal-content span {
+    padding: 0.7rem;
+    cursor: pointer;
+}
+
+
