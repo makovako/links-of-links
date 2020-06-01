@@ -787,6 +787,12 @@
                 "excerpt": "This Ain’t Disney: A practical guide to CSS transitions and animations",
                 "description": "",
                 "url": "https://blog.prototypr.io/this-aint-disney-a-practical-guide-to-css-transitions-and-animations-a8b87e7c5531"
+            },
+            {
+                "title": "Mozilla Observatory",
+                "excerpt": "Ranking website security and functionality",
+                "description": "The Mozilla Observatory has helped over 170,000 websites by teaching developers, system administrators, and security professionals how to configure their sites safely and securely. ",
+                "url": "https://observatory.mozilla.org/"
             }
         ]
     }
