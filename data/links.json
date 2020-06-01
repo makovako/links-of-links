@@ -739,6 +739,12 @@
                 "excerpt": "React and react native without coding",
                 "description": "React and react native without coding",
                 "url": "https://www.appgyver.com/"
+            },
+            {
+                "title": "Guide to css transitions and animaitons",
+                "excerpt": "This Ain’t Disney: A practical guide to CSS transitions and animations",
+                "description": "",
+                "url": "https://blog.prototypr.io/this-aint-disney-a-practical-guide-to-css-transitions-and-animations-a8b87e7c5531"
             }
         ]
     }
