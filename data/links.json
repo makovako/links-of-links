@@ -438,6 +438,36 @@
         "links": []
     },
     {
+        "topic": "networking",
+        "title": "Networking",
+        "links": [
+            {
+                "title": "Difference between switch, hub, modem, router",
+                "excerpt": "Reddit answer explaining that topic.",
+                "description": "",
+                "url": "https://www.reddit.com/r/explainlikeimfive/comments/crarrw/eli5_the_difference_between_a_router_switch_hub_a/"
+            },
+            {
+                "title": "UFW Essentials",
+                "excerpt": "UFW Essentials: Common Firewall Rules and Commands - Digital Ocean",
+                "description": "",
+                "url": "https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands"
+            }
+        ]
+    },
+    {
+        "topic": "photography",
+        "title": "Photography",
+        "links": [
+            {
+                "title": "10 tips landscape photography",
+                "excerpt": "10 Tips To Bring Your Landscape Photography To The Next Level",
+                "description": "",
+                "url": "https://www.reddit.com/r/photography/comments/88bguy/10_tips_to_bring_your_landscape_photography_to/"
+            }
+        ]
+    },
+    {
         "topic": "productivity",
         "title": "Productivity",
         "links": [
