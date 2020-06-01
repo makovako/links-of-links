@@ -240,12 +240,24 @@
             }
         ]
     },
+    {
+        "topic": "linux",
+        "title": "Linux",
         "links": [
             {
-                "title": "Reddit 1",
-                "excerpt": "Small description",
-                "description": "Description of reddit one. Description of reddit one.  Description of reddit one.  Description of reddit one. ",
-                "url": "https://www.reddit.com"
+                "title": "Crontab guru",
+                "excerpt": "Cron format explainer and examples",
+                "description": "Cron format explainer and examples",
+                "url": "https://crontab.guru/"
+            },
+            {
+                "title": "Tcpdump 101",
+                "excerpt": "Packet hunting made easy",
+                "description": "",
+                "url": "https://tcpdump101.com/"
+            }
+        ]
+    },
             },
             {
                 "title": "Reddit 2",
