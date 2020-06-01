@@ -601,7 +601,21 @@
     {
         "topic": "selfhosted",
         "title": "Selfhosted",
-        "links": []
+        "links": [
+            {
+                "title": "Selfhosting advice",
+                "excerpt": "General overview for self hosting",
+                "description": "",
+                "url": "https://www.reddit.com/r/selfhosted/comments/bm6g6f/this_is_the_most_useful_sub_i_follow/emukzwr?utm_source=share&utm_medium=web2x"
+            },
+            {
+                "title": "List what you are selfhosting",
+                "excerpt": "Responses from users on reddit",
+                "description": "",
+                "url": "https://www.reddit.com/r/selfhosted/comments/ekttx5/list_what_you_have_self_hosted/"
+            }
+            
+        ]
     },
     {
         "topic": "software",
