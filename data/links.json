@@ -468,6 +468,15 @@
         "title": "Reddit",
         "links": []
     },
+    {
+        "topic": "security",
+        "title": "Security",
+        "links": [
+            {
+                "title": "Virus total",
+                "excerpt": "File uploader and virus scanner",
+                "description": "VirusTotal is a free virus, malware and URL online scanning service.",
+                "url": "https://www.virustotal.com/"
             }
         ]
     },
