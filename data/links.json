@@ -25,6 +25,18 @@
     },
     {
     {
+        "topic": "housing",
+        "title": "Housing",
+        "links": [
+            {
+                "title": "Shipping containers into homes",
+                "excerpt": "This Texas Company Is Turning Shipping Containers Into Double-Decker Tiny Homes",
+                "description": "This Texas Company Is Turning Shipping Containers Into Double-Decker Tiny Homes",
+                "url": "https://www.dwell.com/article/cargohome-kenneth-wheeler-shipping-container-tiny-home-2f589951"
+            }
+        ]
+    },
+    {
         "topic": "health",
         "title": "Health",
         "links": []
