@@ -18,6 +18,30 @@
         ]
     },
     {
+        "topic": "books",
+        "title": "Books",
+        "links": [
+            {
+                "title": "Bill Gates recommendations",
+                "excerpt": "All the books Bill Gates has recommended over the last eight years",
+                "description": "",
+                "url": "https://www.reddit.com/r/books/comments/8mavhh/all_the_books_bill_gates_has_recommended_over_the/"
+            },
+            {
+                "title": "Project Gutenberg",
+                "excerpt": "Books in public domain",
+                "description": "",
+                "url": "https://www.gutenberg.org/"
+            },
+            {
+                "title": "LibriVox",
+                "excerpt": "Free public domain audiobooks",
+                "description": "",
+                "url": "https://librivox.org/"
+            }
+        ]
+    },
+    {
         "topic": "coronavirus",
         "title": "Coronavirus",
         "links": [
