@@ -1,5 +1,29 @@
 [
     {
+        "topic": "coronavirus",
+        "title": "Coronavirus",
+        "links": [
+            {
+                "title": "Coronavirus worldometers",
+                "excerpt": "Coronavirus statistic",
+                "description": "Coronavirus statistics",
+                "url": "https://www.worldometers.info/coronavirus/"
+            },
+            {
+                "title": "Korona Gov sk",
+                "excerpt": "Coronavirus statistic in Slovakia",
+                "description": "Coronavirus statistics in Slovakia",
+                "url": "https://korona.gov.sk/"
+            },
+            {
+                "title": "Korona Aktuality",
+                "excerpt": "Coronavirus statistics in Slovakia on Aktuality",
+                "description": "Coronavirus statistics in Slovakia on Aktuality",
+                "url": "https://tema.aktuality.sk/koronavirus/"
+            }
+        ]
+    },
+    {
         "topic": "reddit",
         "title": "Reddit",
         "links": [
