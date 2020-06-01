@@ -258,6 +258,18 @@
             }
         ]
     },
+    {
+        "topic": "lists",
+        "title": "Lists",
+        "links": [
+            {
+                "title": "Killed by google",
+                "excerpt": "Google graveyard",
+                "description": "",
+                "url": "https://killedbygoogle.com/"
+            }
+        ]
+    },
             },
             {
                 "title": "Reddit 2",
