@@ -375,6 +375,18 @@
                 "excerpt": "Open Machine Learning Course",
                 "description": "Open Machine Learning Course",
                 "url": "https://mlcourse.ai/"
+            },
+            {
+                "title": "50 Days of Machine Learning",
+                "excerpt": "50 Day challenge for learning and practising machine learning",
+                "description": "",
+                "url": "https://github.com/prakhar21/50-Days-of-ML"
+            },
+            {
+                "title": "Tensorflow Course",
+                "excerpt": "This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.",
+                "description": "",
+                "url": "https://github.com/machinelearningmindset/TensorFlow-Course"
             }
         ]
     },
