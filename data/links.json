@@ -524,12 +524,18 @@
                 "excerpt": "Simple regex online matcher and explainer",
                 "description": "Simple regex online matcher and explainer",
                 "url": "https://regex101.com/"
-            },
+            }
+        ]
+    },
+    {
+        "topic": "python",
+        "title": "Python",
+        "links": [
             {
-                "title": "Quokka JS",
-                "excerpt": "Rapid javascript prototyping - showing console logs right in the editor",
-                "description": "Rapid javascript prototyping - showing console logs right in the editor",
-                "url": "https://quokkajs.com/"
+                "title": "PEP 8",
+                "excerpt": "PEP 8 — the Style Guide for Python Code",
+                "description": "",
+                "url": "https://pep8.org/"
             }
         ]
     },
