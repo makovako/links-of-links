@@ -223,8 +223,23 @@
         "links": []
     },
     {
-        "topic": "reddit",
-        "title": "Reddit",
+        "topic": "jamstack",
+        "title": "JAMstack",
+        "links": [
+            {
+                "title": "Next JS Handbook",
+                "excerpt": "Next JS Handbook on Free Code Camp",
+                "description": "Next JS Handbook on Free Code Camp",
+                "url": "https://www.freecodecamp.org/news/the-next-js-handbook/"
+            },
+            {
+                "title": "Utterances",
+                "excerpt": "A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!",
+                "description": "",
+                "url": "https://utteranc.es/"
+            }
+        ]
+    },
         "links": [
             {
                 "title": "Reddit 1",
