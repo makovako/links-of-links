@@ -282,6 +282,18 @@
             }
         ]
     },
+    {
+        "topic": "math",
+        "title": "Math",
+        "links": [
+            {
+                "title": "Standupmaths",
+                "excerpt": "Stand up comedian explaining math",
+                "description": "",
+                "url": "http://standupmaths.com/"
+            }
+        ]
+    },
             },
             {
                 "title": "Reddit 2",
