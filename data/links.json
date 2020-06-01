@@ -625,12 +625,26 @@
     {
         "topic": "traveling",
         "title": "Travelling",
-        "links": []
+        "links": [
+            {
+                "title": "Solotvyno - Ukraine",
+                "excerpt": "Salt lake in Ukraine",
+                "description": "",
+                "url": "https://cestovanie.sme.sk/c/2917159/ukrajinske-solotvyno-ponuka-kupanie-ako-v-mrtvom-mori.html"
+            }
+        ]
     },
     {
         "topic": "traveling-slovakia",
         "title": "Travelling Slovakia",
-        "links": []
+        "links": [
+            {
+                "title": "Opalove Bane Dubnik",
+                "excerpt": "Zlata bana, Cervenica",
+                "description": "Krásne opály zo Slovenských opálových baní, ktoré sa nachádzajú na východnom Slovensku obdivuje celý svet a dnes sú banské diela vychytenou turistickou lokalitou a technickou pamiatkou.",
+                "url": "https://slovakia.travel/opalove-bane-dubnik"
+            }
+        ]
     },
     {
         "topic": "webapps",
