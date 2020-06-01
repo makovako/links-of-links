@@ -120,6 +120,15 @@ nav a {
     max-width: 900px;
 }
 
+.modal .modal-content h2 {
+    padding: 0.3rem 0;
+}
+
+.modal .modal-content p {
+    align-self: flex-start;
+
+}
+
 .modal .modal-content span {
     padding: 0.7rem;
     cursor: pointer;

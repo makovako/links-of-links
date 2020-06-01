@@ -22,7 +22,7 @@ export default function Home({data}) {
         {modal && <div className="modal">
           <div className="modal-content">
             <h2>{modal.title}</h2>
-            <p>{modal.description}</p>
+            {modal.description.split('\n').map(line => (<p>{line}</p>))}
             <span onClick={() => setModal(null)}>close</span>
           </div>
         </div>}
