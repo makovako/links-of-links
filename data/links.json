@@ -25,6 +25,36 @@
     },
     {
     {
+        "topic": "exercise",
+        "title": "Exercise",
+        "links": [
+            {
+                "title": "Austin Goh Scoliosis",
+                "excerpt": "How to fix scoliosis naturally in 4 minutes a day - Youtube Video",
+                "description": "In this video I show you how you can get rid of scoliosis. If you follow this video every day, you will get rid of your symptoms.",
+                "url": "https://www.youtube.com/watch?v=qjSllPcEooU"
+            },
+            {
+                "title": "Austin Goh Posture",
+                "excerpt": "How to fix bad posture naturally with no equipment! - Get the perfect posture - Youtube Video",
+                "description": "In this video I show you how to fix bad posture and feel more confident with your new perfect posture. Just follow me step by step and give it some time and you will see the results.",
+                "url": "https://www.youtube.com/watch?v=X9PF43UqU78"
+            },
+            {
+                "title": "Austin Goh Forward head posture",
+                "excerpt": "The 4 minute natural fix for forward head posture, nerd neck & anterior head carriage - Yotuube Video",
+                "description": "In this video I show you step by step how to get rid of nerd neck. Just do it with me every day, twice a day for 4 minutes and after a month you will start to see the results.",
+                "url": "https://www.youtube.com/watch?v=oVv7tyZm_eQ"
+            },
+            {
+                "title": "Austin Goh Knee",
+                "excerpt": "How to get rid of your knee pain instantly - Youtube Video",
+                "description": "In this video, I show you step by step, the physical therapy exercise for how to stop and get rid of your knee pain. Consider it to be part of the home remedies collection you have. ",
+                "url": "https://www.youtube.com/watch?v=UsLyQMAFir4"
+            }
+        ]
+    },
+    {
         "topic": "housing",
         "title": "Housing",
         "links": [
