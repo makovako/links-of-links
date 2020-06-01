@@ -321,6 +321,30 @@
                 "excerpt": "TLDR linux utility online, can be used with curl and get simple man pages with examples",
                 "description": "",
                 "url": "https://cheat.sh/"
+            },
+            {
+                "title": "Batocera Linux",
+                "excerpt": "Retro gaming specialized linux distro",
+                "description": "Batocera.linux is an operating system (like Windows 10 and Mac OS) specialized in retrogaming available for your pc and different nano computers like the Raspberry and the Odroids.",
+                "url": "https://batocera.org/"
+            },
+            {
+                "title": "CMD Challenge",
+                "excerpt": "Are you up for the command line challenge? Solve the tasks printed below in a single line of bash.",
+                "description": "",
+                "url": "https://cmdchallenge.com/"
+            },
+            {
+                "title": "KDE plasma tips and tricks",
+                "excerpt": "Plasma tips and tricks",
+                "description": "",
+                "url": "https://www.reddit.com/r/kde/comments/70a5il/kde_plasma_tips_and_secrets/"
+            },
+            {
+                "title": "Systemd usage",
+                "excerpt": "Examples for what can systemd be used for",
+                "description": "",
+                "url": "https://www.reddit.com/r/linux/comments/bsqar4/you_probably_hate_systemd_because_you_think_its/"
             }
         ]
     },
