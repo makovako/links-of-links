@@ -182,6 +182,17 @@
         ]
     },
     {
+        "topic": "git",
+        "title": "Git",
+        "links": [
+            {
+                "title": "Learn Git Branhcing",
+                "excerpt": "Git branching tutorial",
+                "description": "Git branching tutorial",
+                "url": "https://learngitbranching.js.org/"
+            }
+        ]
+    },
         "topic": "housing",
         "title": "Housing",
         "links": [
