@@ -20,10 +20,10 @@ export default function ScrollTop() {
         <>
         {scrollTop > 400 && (
             <button
-            className="scrollTop"
+            className="scrolTop"
                 onClick={scrollToTop}
             >
-            🔝
+                TOP
             </button>
         )}
         </>
