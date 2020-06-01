@@ -357,6 +357,18 @@
                 "excerpt": "Examples for what can systemd be used for",
                 "description": "",
                 "url": "https://www.reddit.com/r/linux/comments/bsqar4/you_probably_hate_systemd_because_you_think_its/"
+            },
+            {
+                "title": "AWK in 20 minutes",
+                "excerpt": "Learn awk in 20 minutes",
+                "description": "",
+                "url": "https://ferd.ca/awk-in-20-minutes.html"
+            },
+            {
+                "title": "Linux productivity tools",
+                "excerpt": "PDF presentation",
+                "description": "",
+                "url": "https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf"
             }
         ]
     },
@@ -530,6 +542,12 @@
                 "excerpt": "Simple regex online matcher and explainer",
                 "description": "Simple regex online matcher and explainer",
                 "url": "https://regex101.com/"
+            },
+            {
+                "title": "Regular expressions",
+                "excerpt": "Regular expressions for regular folks",
+                "description": "",
+                "url": "https://refrf.shreyasminocha.me/"
             }
         ]
     },
