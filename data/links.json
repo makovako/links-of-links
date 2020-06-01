@@ -577,6 +577,24 @@
                 "excerpt": "File uploader and virus scanner",
                 "description": "VirusTotal is a free virus, malware and URL online scanning service.",
                 "url": "https://www.virustotal.com/"
+            },
+            {
+                "title": "Server security advice",
+                "excerpt": "Learning to better secure as I grow more privacy conscious",
+                "description": "",
+                "url": "https://www.reddit.com/r/selfhosted/comments/adzkdw/learning_to_better_secure_as_i_grow_more_privacy/edlh85t?utm_source=share&utm_medium=web2x"
+            },
+            {
+                "title": "Server security advice 2",
+                "excerpt": "Security is a very important aspect. You should at least take care of the following.",
+                "description": "",
+                "url": "https://www.reddit.com/r/selfhosted/comments/bh8090/complete_beginner_guides/elr0ptb?utm_source=share&utm_medium=web2x"
+            },
+            {
+                "title": "Honeypot, alternative to captcha",
+                "excerpt": "Reddit discussion about honeypots",
+                "description": "",
+                "url": "https://www.reddit.com/r/webdev/comments/exv5kj/honeypot_an_alternate_to_captcha/"
             }
         ]
     },
