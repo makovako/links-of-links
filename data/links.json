@@ -282,6 +282,25 @@
             }
         ]
     },
+    {
+        "topic": "learning",
+        "title": "Learning",
+        "links": [
+            {
+                "title": "600 free online courses",
+                "excerpt": "190 universities just launched 600 free online courses. Here’s the full list.",
+                "description": "",
+                "url": "https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/"
+            },
+            {
+                "title": "Self taught CS curriculum",
+                "excerpt": "Reddit post about what a CS student should know.",
+                "description": "",
+                "url": "https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/"
+            }
+        ]
+    },
+    {
         "topic": "linux",
         "title": "Linux",
         "links": [
