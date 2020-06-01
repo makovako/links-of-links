@@ -157,6 +157,18 @@
         ]
     },
     {
+        "topic": "diy",
+        "title": "DIY",
+        "links": [
+            {
+                "title": "Use scanner as touch area",
+                "excerpt": "Touch screen solution from an old CCD scanner",
+                "description": "",
+                "url": "https://hackaday.io/project/27155-magic-frame-turn-everything-into-a-touch-area"
+            }
+        ]
+    },
+    {
         "topic": "documents",
         "title": "Documents",
         "links": [
