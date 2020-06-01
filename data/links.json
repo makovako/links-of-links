@@ -24,6 +24,18 @@
         ]
     },
     {
+        "topic": "deployment",
+        "title": "Deployment",
+        "links": [
+            {
+                "title": "AWS explanation",
+                "excerpt": "Explaining aws in one line",
+                "description": "Explaining aws in one line",
+                "url": "https://adayinthelifeof.nl/2020/05/20/aws.html"
+            }
+        ]
+    },
+    {
         "topic": "design",
         "title": "Design",
         "links": [
