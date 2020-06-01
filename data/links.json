@@ -463,10 +463,11 @@
             }
         ]
     },
-                "title": "Reddit 4",
-                "excerpt": "Small description",
-                "description": "Description of reddit one.",
-                "url": "https://www.reddit.com"
+    {
+        "topic": "reddit",
+        "title": "Reddit",
+        "links": []
+    },
             }
         ]
     },
