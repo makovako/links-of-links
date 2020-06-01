@@ -53,6 +53,10 @@ body {
     flex-grow: 1;
 }
 
+.links a h2 {
+    text-align: center;
+}
+
 .links a > * {
     padding: 0.5rem;
 }
