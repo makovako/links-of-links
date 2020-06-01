@@ -329,6 +329,36 @@
         "title": "Music",
         "links": []
     },
+    {
+        "topic": "productivity",
+        "title": "Productivity",
+        "links": [
+            {
+                "title": "Wavebox",
+                "excerpt": "Distraction free webbrowser",
+                "description": "A distraction-free Chromium browser for fast and focused working across all your daily web SaaS apps and websites.",
+                "url": "https://wavebox.io/"
+            },
+            {
+                "title": "Ambar Cloud",
+                "excerpt": "Open source document search engine",
+                "description": "An open-source document search engine with automated crawling, OCR, tagging and instant full-text search",
+                "url": "https://ambar.cloud/"
+            },
+            {
+                "title": "Get Human",
+                "excerpt": "List of companies phone numbers where you can call with real human",
+                "description": "",
+                "url": "https://gethuman.com/"
+            },
+            {
+                "title": "Help me decide please",
+                "excerpt": "Decision making helper",
+                "description": "",
+                "url": "https://helpmedecideplease.com/"
+            }
+        ]
+    },
             },
             {
                 "title": "Reddit 2",
