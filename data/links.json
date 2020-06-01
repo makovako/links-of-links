@@ -101,24 +101,6 @@
                 "url": "https://github.com/LisaDziuba/Marketing-for-Engineers"
             },
             {
-                "title": "Hasuera io",
-                "excerpt": "Graph ql api generator",
-                "description": "Get realtime GraphQL APIs instantly",
-                "url": "https://hasura.io/"
-            },
-            {
-                "title": "Forest admin",
-                "excerpt": "Admin panel framework",
-                "description": "Admin panel framework",
-                "url": "https://www.forestadmin.com/"
-            },
-            {
-                "title": "AppGyver",
-                "excerpt": "React and react native without coding",
-                "description": "React and react native without coding",
-                "url": "https://www.appgyver.com/"
-            },
-            {
                 "title": "Integromat",
                 "excerpt": "Integrating services and automating processes",
                 "description": "",
@@ -370,41 +352,10 @@
                 "url": "https://www.codewars.com/"
             },
             {
-                "title": "Productive tools for front end web development",
-                "excerpt": "List of various tools - Dev.to Article",
-                "description": "- Color\n- Fonts\n- Icon\n- CSS\n- Logo\n- Animation",
-                "url": "https://dev.to/akshay35c/productive-tools-for-web-development-4bd5"
-            },
-            {
-                "title": "HTML DOM . DEV",
-                "excerpt": "How to manage dom with vanilla javascript only",
-                "description": "How to manage dom with vanilla javascript only",
-                "url": "https://htmldom.dev/"
-            },
-            {
                 "title": "MIT CS Course Assigment",
                 "excerpt": "Programming Assignments",
                 "description": "Programming Assignments",
                 "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/index.htm"
-            },
-            
-            {
-                "title": "30 NPM Packages 2019",
-                "excerpt": "Top 30 NPM Packages for Node.js Developers 2019",
-                "description": "Top 30 NPM Packages for Node.js Developers 2019",
-                "url": "https://colorlib.com/wp/npm-packages-node-js/"
-            },
-            {
-                "title": "10 NPM Pakcages 2019",
-                "excerpt": "10 most popular NPM packages!",
-                "description": "10 most popular NPM packages!",
-                "url": "https://areknawo.com/10-most-popular-npm-packages/"
-            },
-            {
-                "title": "React Redux tutorial",
-                "excerpt": "Using Redux with React: Complete Tutorial with Real-World Examples",
-                "description": "Using Redux with React: Complete Tutorial with Real-World Examples",
-                "url": "https://www.taniarascia.com/redux-react-guide/"
             },
             {
                 "title": "1loc Dev",
@@ -418,19 +369,6 @@
                 "description": "Simple regex online matcher and explainer",
                 "url": "https://regex101.com/"
             },
-            {
-                "title": "Favicons",
-                "excerpt": "The essentials of favicons",
-                "description": "The essentials of favicons",
-                "url": "https://www.emergeinteractive.com/insights/detail/the-essentials-of-favicons/"
-            },
-            {
-                "title": "Client side web development course",
-                "excerpt": "Online book about frontend",
-                "description": "Getting setup\nClient side Development\nHTML fundamentals\nStandard and accessibility\nCSS fundamentals\n CSS Options\nCSS Layouts\nREsponsive CSS\nCSS Frameworks\nJavascript fundamentals\nFunctional programming in JS\n Document object model\nJavascript libraries\nAJAX requests\nES6 features\nINtroduction to React\nInteractive React\nClient side routing\nFirebase\nTesting with Jest\nWebpack\nCSS in JS\nRedux\nReact Native",
-                "url": "https://info340.github.io/"
-            },
-            
             {
                 "title": "Quokka JS",
                 "excerpt": "Rapid javascript prototyping - showing console logs right in the editor",
@@ -521,6 +459,78 @@
                 "excerpt": "Design collaboration software",
                 "description": "",
                 "url": "https://app.diagrams.net/"
+            }
+        ]
+    },
+    {
+        "topic": "web-development",
+        "title": "Web development",
+        "links": [
+            {
+                "title": "Box shadow generator",
+                "excerpt": "CSS box shadow online generator",
+                "description": "",
+                "url": "https://www.cssmatic.com/box-shadow"
+            },
+            {
+                "title": "Productive tools for front end web development",
+                "excerpt": "List of various tools - Dev.to Article",
+                "description": "- Color\n- Fonts\n- Icon\n- CSS\n- Logo\n- Animation",
+                "url": "https://dev.to/akshay35c/productive-tools-for-web-development-4bd5"
+            },
+            {
+                "title": "HTML DOM . DEV",
+                "excerpt": "How to manage dom with vanilla javascript only",
+                "description": "How to manage dom with vanilla javascript only",
+                "url": "https://htmldom.dev/"
+            },
+            {
+                "title": "30 NPM Packages 2019",
+                "excerpt": "Top 30 NPM Packages for Node.js Developers 2019",
+                "description": "Top 30 NPM Packages for Node.js Developers 2019",
+                "url": "https://colorlib.com/wp/npm-packages-node-js/"
+            },
+            {
+                "title": "10 NPM Pakcages 2019",
+                "excerpt": "10 most popular NPM packages!",
+                "description": "10 most popular NPM packages!",
+                "url": "https://areknawo.com/10-most-popular-npm-packages/"
+            },
+            {
+                "title": "React Redux tutorial",
+                "excerpt": "Using Redux with React: Complete Tutorial with Real-World Examples",
+                "description": "Using Redux with React: Complete Tutorial with Real-World Examples",
+                "url": "https://www.taniarascia.com/redux-react-guide/"
+            },
+            {
+                "title": "Favicons",
+                "excerpt": "The essentials of favicons",
+                "description": "The essentials of favicons",
+                "url": "https://www.emergeinteractive.com/insights/detail/the-essentials-of-favicons/"
+            },
+            {
+                "title": "Client side web development course",
+                "excerpt": "Online book about frontend",
+                "description": "Getting setup\nClient side Development\nHTML fundamentals\nStandard and accessibility\nCSS fundamentals\n CSS Options\nCSS Layouts\nREsponsive CSS\nCSS Frameworks\nJavascript fundamentals\nFunctional programming in JS\n Document object model\nJavascript libraries\nAJAX requests\nES6 features\nINtroduction to React\nInteractive React\nClient side routing\nFirebase\nTesting with Jest\nWebpack\nCSS in JS\nRedux\nReact Native",
+                "url": "https://info340.github.io/"
+            },
+            {
+                "title": "Hasuera io",
+                "excerpt": "Graph ql api generator",
+                "description": "Get realtime GraphQL APIs instantly",
+                "url": "https://hasura.io/"
+            },
+            {
+                "title": "Forest admin",
+                "excerpt": "Admin panel framework",
+                "description": "Admin panel framework",
+                "url": "https://www.forestadmin.com/"
+            },
+            {
+                "title": "AppGyver",
+                "excerpt": "React and react native without coding",
+                "description": "React and react native without coding",
+                "url": "https://www.appgyver.com/"
             }
         ]
     }
