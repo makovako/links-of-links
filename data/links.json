@@ -72,6 +72,69 @@
         ]
     },
     {
+        "topic": "development",
+        "title": "Development",
+        "links": [
+            {
+                "title": "Daily project idea",
+                "excerpt": "Daily programming project idea",
+                "description": "- list of software ideas\n- it can daily prompt you to create one",
+                "url": "https://www.dailyidea.com"
+            },
+
+            {
+                "title": "10 Strategies for Excellent Video Game Ideas",
+                "excerpt": "Time to start your first game! Let’s go!  You need good ideas for a video game. What? Don’t you know where to start? Hmm…",
+                "description": "Time to start your first game! Let’s go!  You need good ideas for a video game. What? Don’t you know where to start? Hmm…",
+                "url": "https://www.gamedesigning.org/gaming/game-ideas/"
+            },
+            {
+                "title": "49 ideas for game clones to code",
+                "excerpt": "Article - Invent with python blog",
+                "description": "Article - Invent with python blog",
+                "url": "http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/"
+            },
+            {
+                "title": "Marketing for engineers",
+                "excerpt": "Marketing for engineers github page",
+                "description": "Marketing for engineers github page",
+                "url": "https://github.com/LisaDziuba/Marketing-for-Engineers"
+            },
+            {
+                "title": "Hasuera io",
+                "excerpt": "Graph ql api generator",
+                "description": "Get realtime GraphQL APIs instantly",
+                "url": "https://hasura.io/"
+            },
+            {
+                "title": "Forest admin",
+                "excerpt": "Admin panel framework",
+                "description": "Admin panel framework",
+                "url": "https://www.forestadmin.com/"
+            },
+            {
+                "title": "AppGyver",
+                "excerpt": "React and react native without coding",
+                "description": "React and react native without coding",
+                "url": "https://www.appgyver.com/"
+            },
+            {
+                "title": "Integromat",
+                "excerpt": "Integrating services and automating processes",
+                "description": "",
+                "url": "https://www.integromat.com/en/"
+            },
+            {
+                "title": "Devdocs io",
+                "excerpt": "Cheatsheets and documentations for various technologies",
+                "description": "angular, ansible, apache, async, babel, bash, bootstrap, c, c++, css, d3js, docker, dom, django, electron, git, html, http, javascript, jest, jekyll, jquery, kotlin, lodash, mariadb, markdown, matplotlib, mongoose, nginx, nodejs, npm, openjdk, postgresql, php, perl, python, qt, react, react native, redis, redux, ruby, rust, saltstack, sass, socketio, sqlite, svg, typescript, vue, webpack, wordpress",
+                "url": "https://devdocs.io/"
+            }
+        ]
+    },
+        ]
+    },
+    {
         "topic": "exercise",
         "title": "Exercise",
         "links": [
