@@ -237,6 +237,12 @@
                 "excerpt": "Packet hunting made easy",
                 "description": "",
                 "url": "https://tcpdump101.com/"
+            },
+            {
+                "title": "Cheat.sh",
+                "excerpt": "TLDR linux utility online, can be used with curl and get simple man pages with examples",
+                "description": "",
+                "url": "https://cheat.sh/"
             }
         ]
     },
