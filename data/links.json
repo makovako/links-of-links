@@ -132,6 +132,23 @@
             }
         ]
     },
+    {
+        "topic": "documents",
+        "title": "Documents",
+        "links": [
+            {
+                "title": "Sci hub tw",
+                "excerpt": "Document server of research papers without paywall",
+                "description": "",
+                "url": "https://sci-hub.tw/"
+            },
+            {
+                "title": "Textfiles",
+                "excerpt": "Various text files",
+                "description": "",
+                "url": "http://textfiles.com/"
+            }
+
         ]
     },
     {
