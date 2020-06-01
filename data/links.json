@@ -500,24 +500,27 @@
         "title": "Travelling Slovakia",
         "links": []
     },
+    {
+        "topic": "webapps",
+        "title": "Webapps",
         "links": [
             {
-                "title": "Selfhosted 1",
-                "excerpt": "Small description",
-                "description": "Some long description",
-                "url": "https://www.google.com"
+                "title": "Photopea",
+                "excerpt": "Online image manipulaiton",
+                "description": "Online image manipulaiton. Alternative to photoshop and gimp. Running in the browser.",
+                "url": "https://www.photopea.com/"
             },
             {
-                "title": "Selfhosted 2",
-                "excerpt": "Small description",
-                "description": "Some long description",
-                "url": "https://www.google.com"
+                "title": "Draw io",
+                "excerpt": "Flowchart maker and online diagrams software",
+                "description": "",
+                "url": "https://app.diagrams.net/"
             },
             {
-                "title": "Selfhosted 3",
-                "excerpt": "Small description",
-                "description": "Some long description",
-                "url": "https://www.google.com"
+                "title": "Figma",
+                "excerpt": "Design collaboration software",
+                "description": "",
+                "url": "https://app.diagrams.net/"
             }
         ]
     }
