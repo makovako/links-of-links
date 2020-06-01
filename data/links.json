@@ -1,5 +1,23 @@
 [
     {
+        "topic": "blogs",
+        "title": "Blogs",
+        "links": [
+            {
+                "title": "Dlford blog",
+                "excerpt": "Blog about selfhosting stuff",
+                "description": "",
+                "url": "https://dlford.io/"
+            },
+            {
+                "title": "Ktz Blog",
+                "excerpt": "Blog of Alex Kretzschmar",
+                "description": "",
+                "url": "https://blog.ktz.me/"
+            }
+        ]
+    },
+    {
         "topic": "coronavirus",
         "title": "Coronavirus",
         "links": [
