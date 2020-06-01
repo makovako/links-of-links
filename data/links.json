@@ -439,20 +439,30 @@
             }
         ]
     },
+    {
+        "topic": "randomizers",
+        "title": "Randomizers",
+        "links": [
+            {
+                "title": "Twitch roulette",
+                "excerpt": "Spin the wheel and match with a random streamer with little to no viewers. Say hi! Make new Friends!",
+                "description": "",
+                "url": "https://twitchroulette.net/"
             },
             {
-                "title": "Reddit 2",
-                "excerpt": "Small description",
-                "description": "Description of reddit one.",
-                "url": "https://www.reddit.com"
+                "title": "Random wikipedia article",
+                "excerpt": "Random wiki page",
+                "description": "",
+                "url": "https://en.wikipedia.org/wiki/Special:Random"
             },
             {
-                "title": "Reddit 3",
-                "excerpt": "Small description",
-                "description": "Description of reddit one.",
-                "url": "https://www.reddit.com"
-            },
-            {
+                "title": "Which book",
+                "excerpt": "Suggests a book to read on different criteria",
+                "description": "Whichbook enables millions of combinations of factors and then suggests books which most closely match your needs. Click to open up to 4 sliders and move the to set your choices. ",
+                "url": "https://www.whichbook.net/"
+            }
+        ]
+    },
                 "title": "Reddit 4",
                 "excerpt": "Small description",
                 "description": "Description of reddit one.",
