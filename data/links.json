@@ -265,6 +265,23 @@
         ]
     },
     {
+        "topic": "javascript",
+        "title": "JavaScript",
+        "links": [
+            {
+                "title": "1loc Dev",
+                "excerpt": "Simple javascript utilities in one line of code",
+                "description": "Simple javascript utilities in one line of code",
+                "url": "https://1loc.dev/"
+            },
+            {
+                "title": "Quokka JS",
+                "excerpt": "Rapid javascript prototyping - showing console logs right in the editor",
+                "description": "Rapid javascript prototyping - showing console logs right in the editor",
+                "url": "https://quokkajs.com/"
+            }
+        ]
+    },
         "topic": "linux",
         "title": "Linux",
         "links": [
