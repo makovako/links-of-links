@@ -483,6 +483,23 @@
     {
         "topic": "selfhosted",
         "title": "Selfhosted",
+        "links": []
+    },
+    {
+        "topic": "software",
+        "title": "Software",
+        "links": []
+    },
+    {
+        "topic": "traveling",
+        "title": "Travelling",
+        "links": []
+    },
+    {
+        "topic": "traveling-slovakia",
+        "title": "Travelling Slovakia",
+        "links": []
+    },
         "links": [
             {
                 "title": "Selfhosted 1",
