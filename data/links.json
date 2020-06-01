@@ -357,6 +357,12 @@
                 "excerpt": "Google graveyard",
                 "description": "",
                 "url": "https://killedbygoogle.com/"
+            },
+            {
+                "title": "Awesome list of awesome lists",
+                "excerpt": "Awesome lists about all kinds of interesting topics ",
+                "description": "",
+                "url": "https://github.com/sindresorhus/awesome"
             }
         ]
     },
