@@ -270,6 +270,18 @@
             }
         ]
     },
+    {
+        "topic": "machine-learning",
+        "title": "Machine Learning",
+        "links": [
+            {
+                "title": "mlcourse.ai",
+                "excerpt": "Open Machine Learning Course",
+                "description": "Open Machine Learning Course",
+                "url": "https://mlcourse.ai/"
+            }
+        ]
+    },
             },
             {
                 "title": "Reddit 2",
