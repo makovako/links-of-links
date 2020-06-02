@@ -609,7 +609,6 @@
         "topic": "raspberry-pi",
         "title": "Raspberry Pi",
         "links": [
-            ,
             {
                 "title": "Booting raspberry pi from USB",
                 "excerpt": "Video tutorial on how to boot raspberry pi off of a usb device instead of sd card.",
@@ -668,6 +667,12 @@
                 "excerpt": "Responses from users on reddit",
                 "description": "",
                 "url": "https://www.reddit.com/r/selfhosted/comments/ekttx5/list_what_you_have_self_hosted/"
+            },
+            {
+                "title": "Selfhosted firefox send",
+                "excerpt": "Guide on selfhosting firefox send service.",
+                "description": "Firefox Send is an open-source file sharing service from Mozilla, it lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn’t stay online forever.",
+                "url": "https://ahmedmusaad.com/self-hosting-firefox-send/"
             }
             
         ]
