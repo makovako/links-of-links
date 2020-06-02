@@ -673,6 +673,12 @@
                 "excerpt": "Guide on selfhosting firefox send service.",
                 "description": "Firefox Send is an open-source file sharing service from Mozilla, it lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn’t stay online forever.",
                 "url": "https://ahmedmusaad.com/self-hosting-firefox-send/"
+            },
+            {
+                "title": "Plausible",
+                "excerpt": "Alternative to google analytics",
+                "description": "",
+                "url": "https://plausible.io/"
             }
             
         ]
@@ -811,6 +817,12 @@
                 "excerpt": "Ranking website security and functionality",
                 "description": "The Mozilla Observatory has helped over 170,000 websites by teaching developers, system administrators, and security professionals how to configure their sites safely and securely. ",
                 "url": "https://observatory.mozilla.org/"
+            },
+            {
+                "title": "Editor JS",
+                "excerpt": "wysiwyg editor exporting to json",
+                "description": "",
+                "url": "https://editorjs.io/"
             }
         ]
     }
