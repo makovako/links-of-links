@@ -606,6 +606,19 @@
         ]
     },
     {
+        "topic": "raspberry-pi",
+        "title": "Raspberry Pi",
+        "links": [
+            ,
+            {
+                "title": "Booting raspberry pi from USB",
+                "excerpt": "Video tutorial on how to boot raspberry pi off of a usb device instead of sd card.",
+                "description": "",
+                "url": "https://www.youtube.com/watch?v=zVhYvvrGhMU"
+            }
+        ]
+    },
+    {
         "topic": "reddit",
         "title": "Reddit",
         "links": []
