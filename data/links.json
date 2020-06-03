@@ -733,6 +733,12 @@
                 "excerpt": "Design collaboration software",
                 "description": "",
                 "url": "https://app.diagrams.net/"
+            },
+            {
+                "title": "Timer tab",
+                "excerpt": "Shows stopwatch or countdown in tab.",
+                "description": "",
+                "url": "https://www.timer-tab.com/"
             }
         ]
     },
