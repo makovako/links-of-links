@@ -256,6 +256,12 @@
                 "excerpt": "Cybersecurity training",
                 "description": "TryHackMe is an online platform that teaches Cybersecurity through hands-on virtual labs. Whether you are an expert or beginner, learn through a virtual room structure to understand theoretical and practical security elements.",
                 "url": "https://tryhackme.com/"
+            },
+            {
+                "title": "PE cheatsheet",
+                "excerpt": "Cheatsheet of various PE on github.",
+                "description": "",
+                "url": "https://github.com/Ignitetechnologies/Privilege-Escalation"
             }
         ]
     },
