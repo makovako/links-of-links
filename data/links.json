@@ -620,6 +620,11 @@
                 "excerpt": "Video tutorial on how to boot raspberry pi off of a usb device instead of sd card.",
                 "description": "",
                 "url": "https://www.youtube.com/watch?v=zVhYvvrGhMU"
+            },{
+                "title": "Remote controlled clocks",
+                "excerpt": "Setting up remotly controlled clocks from ikea via raspberry pi and arduino.",
+                "description": "",
+                "url": "https://www.youtube.com/watch?v=6SHGAEhnsYk"
             }
         ]
     },
