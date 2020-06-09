@@ -128,6 +128,11 @@
                 "excerpt": "Discover the world’s top designers & creatives",
                 "description": "Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.",
                 "url": "https://dribbble.com/"
+            },{
+                "title": "No Design Development",
+                "excerpt": "A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev.",
+                "description": "",
+                "url": "https://nodesign.dev/"
             }
         ]
     },
@@ -393,6 +398,11 @@
                 "excerpt": "PDF presentation",
                 "description": "",
                 "url": "https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf"
+            },{
+                "title": "Linux kernel map",
+                "excerpt": "The interactive map of linux kernel funcitons",
+                "description": "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code. A Linux hacker, trying to track down a bug or just understand how some subsystem works, can get exhausted just trying to figure out what invokes what — so the kernel map comes to the rescue! ",
+                "url": "https://makelinux.github.io/kernel/map/"
             }
         ]
     },
