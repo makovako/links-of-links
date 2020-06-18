@@ -211,6 +211,18 @@
         ]
     },
     {
+        "topic": "electronics",
+        "title": "Electronics",
+        "links": [
+            {
+                "title": "Lessons in Electric Circuits",
+                "excerpt": "Electronics tutorial",
+                "description": "This free electrical engineering textbook provides a series of volumes covering electricity and electronics. The information provided is great for students, makers, and professionals who are looking to refresh or expand their knowledge in this field. These textbooks were originally written by Tony R. Kuphaldt and released under the Design Science License. It has since then been updated by members of the All About Circuits community and editorial team. ",
+                "url": "https://www.allaboutcircuits.com/textbook/"
+            }
+        ]
+    },
+    {
         "topic": "exercise",
         "title": "Exercise",
         "links": [
