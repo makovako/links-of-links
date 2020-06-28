@@ -717,6 +717,11 @@
                 "excerpt": "Alternative to google analytics",
                 "description": "",
                 "url": "https://plausible.io/"
+            },{
+                "title": "Serverbuilds",
+                "excerpt": "Tutorials for building best server for a buck and forum",
+                "description": "",
+                "url": "https://www.serverbuilds.net/"
             }
             
         ]
