@@ -506,6 +506,22 @@
                 "url": "https://dmd.delivery/"
             }
         ]
+    },{
+        "topic": "motivational",
+        "title": "Motivational",
+        "links": [
+            {
+                "title": "Kara and Nate - 100th country",
+                "excerpt": "Visiting 100th country in 4 yers.",
+                "description": "Part of the video, where Kara and Nate (4 year travelers) visit their 100th country and something interesting happens.",
+                "url": "https://youtu.be/FuFv4iF8wgg?t=3221"
+            },{
+                "title": "Jerry Rig Everything",
+                "excerpt": "Zack surprizes her wife with a nice and unusual bike",
+                "description": "",
+                "url": "https://www.youtube.com/watch?v=H3_mVryqXpU"
+            }
+        ]
     },
     {
         "topic": "music",
