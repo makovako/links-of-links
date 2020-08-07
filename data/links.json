@@ -933,6 +933,11 @@
                 "excerpt": "wysiwyg editor exporting to json",
                 "description": "",
                 "url": "https://editorjs.io/"
+            },{
+                "title": "HTML DOM",
+                "excerpt": "Javascripts snippets for manipulating html dom and other useful stuff",
+                "description": "",
+                "url": "https://htmldom.dev/"
             }
         ]
     }
