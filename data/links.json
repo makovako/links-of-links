@@ -138,6 +138,11 @@
                 "excerpt": "A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev.",
                 "description": "",
                 "url": "https://nodesign.dev/"
+            },{
+                "title": "7 practical tips for cheating at design",
+                "excerpt": "some tips to make nice practical design",
+                "description": "",
+                "url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886"
             }
         ]
     },
