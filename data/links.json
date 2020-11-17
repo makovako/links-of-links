@@ -375,6 +375,11 @@
                 "excerpt": "Reddit post about what a CS student should know.",
                 "description": "",
                 "url": "https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/"
+            },{
+                "title": "Harvard notes",
+                "excerpt": "Math and Physics student notes",
+                "description": "These are a collection of notes for courses I took at Harvard, from 2015 to 2019. All of them are live-TeXed, and please use at own risk.",
+                "url": "https://github.com/Dongryul-Kim/harvard_notes"
             }
         ]
     },
@@ -607,6 +612,17 @@
                 "url": "https://helpmedecideplease.com/"
             }
         ]
+    },{
+        "topic": "programms",
+        "title": "Programms",
+        "links": [
+            {
+                "title": "Zettlr",
+                "excerpt": "Markdown Editor",
+                "description": "Markdown editor",
+                "url": "https://www.zettlr.com/"
+            }
+        ]
     },
     {
         "topic": "programming",
@@ -647,6 +663,11 @@
                 "excerpt": "PEP 8 — the Style Guide for Python Code",
                 "description": "",
                 "url": "https://pep8.org/"
+            },{
+                "title": "Kivy",
+                "excerpt": "Multiplatform aplication framework",
+                "description": "Kivy - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.",
+                "url": "https://kivy.org/#home"
             }
         ]
     },
@@ -758,6 +779,21 @@
                 "excerpt": "Tutorials for building best server for a buck and forum",
                 "description": "",
                 "url": "https://www.serverbuilds.net/"
+            },{
+                "title": "Monica",
+                "excerpt": "Customer relationship manager",
+                "description": "Self hosted CRM for family, friends or customers management.",
+                "url": "https://www.monicahq.com/"
+            },{
+                "title": "22120",
+                "excerpt": "Browser history archiver",
+                "description": "An archivist browser controller that caches everything you browse, a library server with full text search to serve your archive.",
+                "url": "https://github.com/c9fe/22120"
+            },{
+                "title": "Etebase",
+                "excerpt": "Selfhosted firebase",
+                "description": "Etebase makes it easy to build end-to-end encrypted applications by taking care of the encryption and its related challenges. Think Firebase but encrypted in a way that only your users can access their data.",
+                "url": "https://www.etebase.com/?r=hn"
             }
             
         ]
@@ -765,7 +801,14 @@
     {
         "topic": "software",
         "title": "Software",
-        "links": []
+        "links": [
+            {
+                "title": "Caldera",
+                "excerpt": "Cyber-security framework",
+                "description": "CALDERA™ is a cyber security framework designed to easily run autonomous breach-and-simulation exercises. It can also be used to run manual red-team engagements or automated incident response.",
+                "url": "https://github.com/mitre/caldera"
+            }
+        ]
     },
     {
         "topic": "traveling",
@@ -848,6 +891,16 @@
                 "excerpt": "Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.",
                 "description": "",
                 "url": "https://www.keybr.com/"
+            },{
+                "title": "SubDab",
+                "excerpt": "Subtitle auto synchronizer",
+                "description": "",
+                "url": "https://subdab.com/"
+            },{
+                "title": "Yksi",
+                "excerpt": "Seagate SMART values explainer",
+                "description": "",
+                "url": "https://yksi.ml/"
             }
         ]
     },
@@ -943,6 +996,11 @@
                 "excerpt": "Javascripts snippets for manipulating html dom and other useful stuff",
                 "description": "",
                 "url": "https://htmldom.dev/"
+            },{
+                "title": "FlexBox Defense",
+                "excerpt": "Learning flexbox by playing tower defence game",
+                "description": "",
+                "url": "http://www.flexboxdefense.com/"
             }
         ]
     }
