@@ -651,6 +651,11 @@
                 "excerpt": "Regular expressions for regular folks",
                 "description": "",
                 "url": "https://refrf.shreyasminocha.me/"
+            },{
+                "title": "Coding interwiev videos",
+                "excerpt": "I created a video series to teach the most common patterns and techniques to pass coding interviews",
+                "description": "",
+                "url": "https://www.reddit.com/r/learnprogramming/comments/k6fxr5/i_created_a_video_series_to_teach_the_most_common/"
             }
         ]
     },
@@ -901,6 +906,21 @@
                 "excerpt": "Seagate SMART values explainer",
                 "description": "",
                 "url": "https://yksi.ml/"
+            },{
+                "title": "UI Coach",
+                "excerpt": "UI Design Chellange Generator",
+                "description": "Become a better ui designer at your own pace",
+                "url": "https://uicoach.io/"
+            },{
+                "title": "Video cutter",
+                "excerpt": "Cut any video and download it as a video or audio file",
+                "description": "",
+                "url": "https://video-cutter.tools/"
+            },{
+                "title": "LFZ battle",
+                "excerpt": "Pokemon inspired game for learning web and javascript",
+                "description": "",
+                "url": "https://lfz-battle.uzairashraf.dev/"
             }
         ]
     },
@@ -1001,6 +1021,16 @@
                 "excerpt": "Learning flexbox by playing tower defence game",
                 "description": "",
                 "url": "http://www.flexboxdefense.com/"
+            },{
+                "title": "Dark mode on websites",
+                "excerpt": "How to add dark mode to a custom website in html and css",
+                "description": "Blog post about easy code for dark websites",
+                "url": "https://www.oakharborwebdesigns.com/blog/2020/december/how-to-add-dark-mode-to-a-website#blog-post"
+            },{
+                "title": "Dark mode on websites (reddit)",
+                "excerpt": "How to add dark mode to a custom website in html and css (reddit post with useful comments)",
+                "description": "",
+                "url": "https://www.reddit.com/r/webdev/comments/kfwydp/how_to_add_dark_mode_to_your_website_in_5_minutes/"
             }
         ]
     }
