@@ -322,7 +322,13 @@
     {
         "topic": "health",
         "title": "Health",
-        "links": []
+        "links": [
+            {
+            "title": "Sugar industry",
+            "excerpt": "50 Years Ago, Sugar Industry Quietly Paid Scientists To Point Blame At Fat",
+            "description": "",
+            "url": "https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat?t=1613254567414&t=1614952314884"
+        }]
     },
     {
         "topic": "jamstack",
@@ -380,6 +386,11 @@
                 "excerpt": "Math and Physics student notes",
                 "description": "These are a collection of notes for courses I took at Harvard, from 2015 to 2019. All of them are live-TeXed, and please use at own risk.",
                 "url": "https://github.com/Dongryul-Kim/harvard_notes"
+            },{
+                "title": "1000 hours CS curriculum",
+                "excerpt": "This is The Entire Computer Science Curriculum in 1000 YouTube Videos",
+                "description": "",
+                "url": "https://laconicml.com/computer-science-curriculum-youtube-videos/"
             }
         ]
     },
@@ -720,7 +731,13 @@
     {
         "topic": "reddit",
         "title": "Reddit",
-        "links": []
+        "links": [
+            {
+            "title": "LPT - Tactics and logical fallacies",
+            "excerpt": "LPT - Learn about manipulative tactics and logical fallacies so that you can identify when someone is attempting to use them on you.",
+            "description": "",
+            "url": "https://www.reddit.com/r/LifeProTips/comments/ks8vh8/lpt_learn_about_manipulative_tactics_and_logical/"
+        }]
     },
     {
         "topic": "security",
@@ -799,6 +816,11 @@
                 "excerpt": "Selfhosted firebase",
                 "description": "Etebase makes it easy to build end-to-end encrypted applications by taking care of the encryption and its related challenges. Think Firebase but encrypted in a way that only your users can access their data.",
                 "url": "https://www.etebase.com/?r=hn"
+            },{
+                "title": "Filestash",
+                "excerpt": "An awesome web-based file manager",
+                "description": "",
+                "url": "https://www.filestash.app/"
             }
             
         ]
@@ -1031,6 +1053,11 @@
                 "excerpt": "How to add dark mode to a custom website in html and css (reddit post with useful comments)",
                 "description": "",
                 "url": "https://www.reddit.com/r/webdev/comments/kfwydp/how_to_add_dark_mode_to_your_website_in_5_minutes/"
+            },{
+                "title": "CountryFlags",
+                "excerpt": "CDN for country flag icons",
+                "description": "",
+                "url": "https://www.countryflags.io/"
             }
         ]
     }
