@@ -221,6 +221,11 @@
                 "excerpt": "Various text files",
                 "description": "",
                 "url": "http://textfiles.com/"
+            },{
+                "title": "Reddit post about old encylopedias",
+                "excerpt": "Does anyone have a complete PDF copy of a major encyclopedia, such as the Encyclopedia Brittanica, from before the First World War?",
+                "description": "",
+                "url": "https://www.reddit.com/r/DataHoarder/comments/mc5ri7/does_anyone_have_a_complete_pdf_copy_of_a_major/"
             }
 
         ]
@@ -391,6 +396,11 @@
                 "excerpt": "This is The Entire Computer Science Curriculum in 1000 YouTube Videos",
                 "description": "",
                 "url": "https://laconicml.com/computer-science-curriculum-youtube-videos/"
+            },{
+                "title": "All the MOOC of Helsinki University...",
+                "excerpt": "Reddit post with a lots of links",
+                "description": "",
+                "url": "https://www.reddit.com/r/learnprogramming/comments/m8nmuu/all_the_mooc_of_helsinki_university/"
             }
         ]
     },
@@ -456,6 +466,11 @@
                 "excerpt": "The interactive map of linux kernel funcitons",
                 "description": "The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code. A Linux hacker, trying to track down a bug or just understand how some subsystem works, can get exhausted just trying to figure out what invokes what — so the kernel map comes to the rescue! ",
                 "url": "https://makelinux.github.io/kernel/map/"
+            },{
+                "title": "systemd service",
+                "excerpt": "systemd service sandboxing and security hardening 101",
+                "description": "",
+                "url": "https://www.ctrl.blog/entry/systemd-service-hardening.html"
             }
         ]
     },
@@ -591,6 +606,23 @@
                 "excerpt": "10 Tips To Bring Your Landscape Photography To The Next Level",
                 "description": "",
                 "url": "https://www.reddit.com/r/photography/comments/88bguy/10_tips_to_bring_your_landscape_photography_to/"
+            }
+        ]
+    },
+    {
+        "topic": "privacy",
+        "title": "Privacy",
+        "links": [
+            {
+                "title": "Arguments to degoogle",
+                "excerpt": "Parents think I'm doing something bad because I want to Degoogle. How do I explain it to them?",
+                "description": "",
+                "url": "https://www.reddit.com/r/degoogle/comments/mk06w3/parents_think_im_doing_something_bad_because_i/"
+            },{
+                "title": "Refusing to work, put on the no fly",
+                "excerpt": "Article on HN",
+                "description": "",
+                "url": "https://news.ycombinator.com/item?id=26715644"
             }
         ]
     },
@@ -821,6 +853,21 @@
                 "excerpt": "An awesome web-based file manager",
                 "description": "",
                 "url": "https://www.filestash.app/"
+            },{
+                "title": "Docker Security Cheat Sheet",
+                "excerpt": "Same docker security rules",
+                "description": "",
+                "url": "https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html"
+            },{
+                "title": "Open source online database",
+                "excerpt": "Database management through the browser",
+                "description": "Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser. ",
+                "url": "https://baserow.io/"
+            },{
+                "title": "Focalboard",
+                "excerpt": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. ",
+                "description": " It helps define, organize, track and manage work across individuals and teams.",
+                "url": "https://www.focalboard.com/"
             }
             
         ]
@@ -943,6 +990,21 @@
                 "excerpt": "Pokemon inspired game for learning web and javascript",
                 "description": "",
                 "url": "https://lfz-battle.uzairashraf.dev/"
+            },{
+                "title": "Vesselfinder",
+                "excerpt": "Find positon of a vessel on map",
+                "description": "",
+                "url": "https://www.vesselfinder.com/"
+            },{
+                "title": "Flightradar",
+                "excerpt": "Find psoiton of a plane on map",
+                "description": "",
+                "url": "https://www.flightradar24.com/"
+            },{
+                "title": "Privacytools.io",
+                "excerpt": "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
+                "description": "",
+                "url": "https://privacytools.io/"
             }
         ]
     },
