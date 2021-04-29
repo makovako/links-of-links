@@ -143,6 +143,16 @@
                 "excerpt": "some tips to make nice practical design",
                 "description": "",
                 "url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886"
+            },{
+                "title": "How to design website for beginers",
+                "excerpt": "Turn your website desing into a repeatable process",
+                "description": "",
+                "url": "https://www.oakharborwebdesigns.com/blog/articles/how-to-design-a-website.html#blog-post"
+            },{
+                "title": "Designing ui elements",
+                "excerpt": "How to design almost any ui element",
+                "description": "Twitter posts with links to articles about designing ui elements",
+                "url": "https://mobile.twitter.com/vponamariov/status/1381584285300359169"
             }
         ]
     },
@@ -186,6 +196,21 @@
                 "excerpt": "Cheatsheets and documentations for various technologies",
                 "description": "angular, ansible, apache, async, babel, bash, bootstrap, c, c++, css, d3js, docker, dom, django, electron, git, html, http, javascript, jest, jekyll, jquery, kotlin, lodash, mariadb, markdown, matplotlib, mongoose, nginx, nodejs, npm, openjdk, postgresql, php, perl, python, qt, react, react native, redis, redux, ruby, rust, saltstack, sass, socketio, sqlite, svg, typescript, vue, webpack, wordpress",
                 "url": "https://devdocs.io/"
+            },{
+                "title": "Plan and build project post",
+                "excerpt": "How to plan and build a programming project for beginners",
+                "description": "",
+                "url": "https://www.reddit.com/r/learnprogramming/comments/mumrgn/how_to_plan_and_build_a_programming_project_a/"
+            },{
+                "title": "25 programming yt channels",
+                "excerpt": "list of various programming yotuube channels",
+                "description": "",
+                "url": "https://www.reddit.com/r/learnprogramming/comments/mve0i8/25_programming_youtube_channels_you_should/"
+            },{
+                "title": "TDD development",
+                "excerpt": "Tetsing on the frontend",
+                "description": "",
+                "url": "https://outsidein.dev/about-this-guide.html"
             }
         ]
     },
@@ -664,6 +689,11 @@
                 "excerpt": "Markdown Editor",
                 "description": "Markdown editor",
                 "url": "https://www.zettlr.com/"
+            },{
+                "title": "Barrier",
+                "excerpt": "Seamless mouseand keyboard between devices",
+                "description": "",
+                "url": "https://github.com/debauchee/barrier"
             }
         ]
     },
@@ -1005,6 +1035,21 @@
                 "excerpt": "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
                 "description": "",
                 "url": "https://privacytools.io/"
+            },{
+                "title": "Gartic Phone",
+                "excerpt": "The telephone game, draw, write",
+                "description": "",
+                "url": "https://garticphone.com/"
+            },{
+                "title": "Learn git branching",
+                "excerpt": "Learn git branching game",
+                "description": "",
+                "url": "https://learngitbranching.js.org/"
+            },{
+                "title": "OhMyGit",
+                "excerpt": "An open source game about learning Git",
+                "description": "",
+                "url": "https://ohmygit.org/"
             }
         ]
     },
