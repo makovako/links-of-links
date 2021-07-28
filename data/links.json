@@ -211,6 +211,16 @@
                 "excerpt": "Tetsing on the frontend",
                 "description": "",
                 "url": "https://outsidein.dev/about-this-guide.html"
+            },{
+                "title": "Readme.so",
+                "excerpt": "Readme templating website",
+                "description": "",
+                "url": "https://readme.so/"
+            },{
+                "title": "gitexplorer",
+                "excerpt": "Git Command Explorer - Find the right commands you need without digging through the web.",
+                "description": "",
+                "url": "https://gitexplorer.com/"
             }
         ]
     },
@@ -299,6 +309,22 @@
                 "excerpt": "2 series of exercises for better posture",
                 "description": "",
                 "url": "https://www.youtube.com/watch?v=RqcOCBb4arc"
+            }
+        ]
+    },{
+        "topic": "food",
+        "title": "Food",
+        "links": [
+            {
+                "title": "Food from fastfood after years",
+                "excerpt": "Žena skladuje jedlo z rôznych fast foodov. Vo virálnom videu ukázala, ako vyzerá po 2 rokoch",
+                "description": "",
+                "url": "https://noizz.aktuality.sk/zaujimavosti/zena-2-roky-skladuje-jedlo-z-fast-foodov-doteraz-sa-nepokazilo/y3ycdye?utm_source=facebook.com&utm_medium=post&utm_campaign=fbaktuality"
+            },{
+                "title": "Onion with honey",
+                "excerpt": "Cibuľa s medom a kurkumou čistí pľúca za 1 noc: Pomôže aj dlhoročným fajčiarom, tu je RECEPT! ",
+                "description": "",
+                "url": "https://tojenapad.dobrenoviny.sk/sirup-na-kasel-a-pluca-2/"
             }
         ]
     },
@@ -496,6 +522,11 @@
                 "excerpt": "systemd service sandboxing and security hardening 101",
                 "description": "",
                 "url": "https://www.ctrl.blog/entry/systemd-service-hardening.html"
+            },{
+                "title": "Debian manual",
+                "excerpt": "Proper debian manual guide",
+                "description": "",
+                "url": "https://www.reddit.com/r/linux/comments/oa51y1/if_you_didnt_know_there_is_a_proper_300_page/"
             }
         ]
     },
@@ -550,6 +581,11 @@
                 "excerpt": "Stand up comedian explaining math",
                 "description": "",
                 "url": "http://standupmaths.com/"
+            },{
+                "title": "Matematik Zbynek KUbacek",
+                "excerpt": "Univerzitne videa matematika, fyzika",
+                "description": "",
+                "url": "https://www.startitup.sk/videa/matematik-kubacek-jeho-views-mu-moze-zavidiet-nie-jeden-youtuber-na-online-prednasky-ho-museli-ukecavat/"
             }
         ]
     },
@@ -602,7 +638,19 @@
     {
         "topic": "music",
         "title": "Music",
-        "links": []
+        "links": [
+            {
+                "title": "Falsetto",
+                "excerpt": "Note leardning app",
+                "description": "Master your instrument, learn music theory, and train your ear with interactive lessons & exercises!",
+                "url": "https://falsetto.app/"
+            },{
+                "title": "lalal.ai",
+                "excerpt": "Extract vocal and instrumental track from any audio",
+                "description": "",
+                "url": "https://www.lalal.ai"
+            }
+        ]
     },
     {
         "topic": "networking",
@@ -631,6 +679,11 @@
                 "excerpt": "10 Tips To Bring Your Landscape Photography To The Next Level",
                 "description": "",
                 "url": "https://www.reddit.com/r/photography/comments/88bguy/10_tips_to_bring_your_landscape_photography_to/"
+            },{
+                "title": "Focal lenght explained",
+                "excerpt": "This gif explains how changing focal length impacts a portrait",
+                "description": "",
+                "url": "https://www.diyphotography.net/gif-explains-changing-focal-length-impacts-portrait/"
             }
         ]
     },
@@ -787,6 +840,11 @@
                 "excerpt": "Setting up remotly controlled clocks from ikea via raspberry pi and arduino.",
                 "description": "",
                 "url": "https://www.youtube.com/watch?v=6SHGAEhnsYk"
+            },{
+                "title": "Youtube raspberry recomedation list",
+                "excerpt": "Any YouTUbe channel recommendations",
+                "description": "",
+                "url": "https://www.reddit.com/r/raspberry_pi/comments/nkfok7/any_youtube_channel_recommendations_wiring/"
             }
         ]
     },
@@ -828,6 +886,16 @@
                 "excerpt": "Reddit discussion about honeypots",
                 "description": "",
                 "url": "https://www.reddit.com/r/webdev/comments/exv5kj/honeypot_an_alternate_to_captcha/"
+            },{
+                "title": "Linux workstation security checklist",
+                "excerpt": "This document is aimed at teams of systems administrators who use Linux workstations to access and manage your project's IT infrastructure.",
+                "description": "",
+                "url": "https://github.com/lfit/itpol/blob/master/linux-workstation-security.md"
+            },{
+                "title": "Linux security guide - reddit",
+                "excerpt": "A complete yet beginner friendly guide on how to secure Linux",
+                "description": "",
+                "url": "https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/"
             }
         ]
     },
@@ -898,8 +966,24 @@
                 "excerpt": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. ",
                 "description": " It helps define, organize, track and manage work across individuals and teams.",
                 "url": "https://www.focalboard.com/"
+            },{
+                "title": "Filerun",
+                "excerpt": "Filesharing under your control",
+                "description": "",
+                "url": "https://filerun.com/"
             }
             
+        ]
+    },{
+        "topic": "social",
+        "title": "Social",
+        "links": [
+            {
+                "title": "SIRC guide to flirting",
+                "excerpt": "What Social Science can tell you about flirting and how to do it",
+                "description": "",
+                "url": "http://www.sirc.org/publik/flirt.html"
+            }
         ]
     },
     {
@@ -1050,6 +1134,21 @@
                 "excerpt": "An open source game about learning Git",
                 "description": "",
                 "url": "https://ohmygit.org/"
+            },{
+                "title": "Piped",
+                "excerpt": "Alternative youtube frontend",
+                "description": "",
+                "url": "https://piped.kavin.rocks/"
+            },{
+                "title": "Mastershot",
+                "excerpt": "video editing webapp",
+                "description": "",
+                "url": "https://mastershot.app/"
+            },{
+                "title": "domevents",
+                "excerpt": "Learn about DOM Event system through exploration",
+                "description": "",
+                "url": "https://domevents.dev/"
             }
         ]
     },
@@ -1165,6 +1264,11 @@
                 "excerpt": "CDN for country flag icons",
                 "description": "",
                 "url": "https://www.countryflags.io/"
+            },{
+                "title": "HTML Tips",
+                "excerpt": "Article with html tips",
+                "description": "",
+                "url": "https://markodenic.com/html-tips/"
             }
         ]
     }
