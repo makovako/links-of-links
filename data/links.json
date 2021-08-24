@@ -153,6 +153,11 @@
                 "excerpt": "How to design almost any ui element",
                 "description": "Twitter posts with links to articles about designing ui elements",
                 "url": "https://mobile.twitter.com/vponamariov/status/1381584285300359169"
+            },{
+                "title": "Refactoring UI",
+                "excerpt": "Book and blog about better UI",
+                "description": "",
+                "url": "https://www.refactoringui.com"
             }
         ]
     },
@@ -527,6 +532,11 @@
                 "excerpt": "Proper debian manual guide",
                 "description": "",
                 "url": "https://www.reddit.com/r/linux/comments/oa51y1/if_you_didnt_know_there_is_a_proper_300_page/"
+            },{
+                "title": "Firefox + Wayland",
+                "excerpt": "Reddit user tip for using firefox on wayland",
+                "description": "",
+                "url": "https://www.reddit.com/r/archlinux/comments/ozubo9/using_firefox_on_wayland_make_sure_you_have_moz/"
             }
         ]
     },
@@ -782,6 +792,11 @@
                 "excerpt": "I created a video series to teach the most common patterns and techniques to pass coding interviews",
                 "description": "",
                 "url": "https://www.reddit.com/r/learnprogramming/comments/k6fxr5/i_created_a_video_series_to_teach_the_most_common/"
+            },{
+                "title": "TryAPL",
+                "excerpt": "Try apl programming language in browser",
+                "description": "",
+                "url": "https://tryapl.org/"
             }
         ]
     },
@@ -857,7 +872,13 @@
             "excerpt": "LPT - Learn about manipulative tactics and logical fallacies so that you can identify when someone is attempting to use them on you.",
             "description": "",
             "url": "https://www.reddit.com/r/LifeProTips/comments/ks8vh8/lpt_learn_about_manipulative_tactics_and_logical/"
-        }]
+            },{
+                "title": "Recommended programming books",
+                "excerpt": "User suggetsed recommended programming books",
+                "description": "",
+                "url": "https://www.reddit.com/r/learnprogramming/comments/p83r66/programming_books_every_developer_should_read/"
+            }
+        ]
     },
     {
         "topic": "security",
@@ -971,6 +992,16 @@
                 "excerpt": "Filesharing under your control",
                 "description": "",
                 "url": "https://filerun.com/"
+            },{
+                "title": "Uptime kuma",
+                "excerpt": "Self hosted uptime monitoring",
+                "description": "",
+                "url": "https://github.com/louislam/uptime-kuma"
+            },{
+                "title": "Selfoss - Webfront",
+                "excerpt": "RSS frontend that looks like old newspapers",
+                "description": "",
+                "url": "https://github.com/MatthK/Selfoss-Webfront"
             }
             
         ]
@@ -1149,6 +1180,11 @@
                 "excerpt": "Learn about DOM Event system through exploration",
                 "description": "",
                 "url": "https://domevents.dev/"
+            },{
+                "title": "How I experience web today",
+                "excerpt": "Demo site of annoying features on the websites",
+                "description": "",
+                "url": "https://how-i-experience-web-today.com/"
             }
         ]
     },
@@ -1269,6 +1305,11 @@
                 "excerpt": "Article with html tips",
                 "description": "",
                 "url": "https://markodenic.com/html-tips/"
+            },{
+                "title": "Public APIs",
+                "excerpt": "LIst of public apis",
+                "description": "",
+                "url": "https://github.com/public-apis/public-apis"
             }
         ]
     }
