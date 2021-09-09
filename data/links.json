@@ -226,6 +226,16 @@
                 "excerpt": "Git Command Explorer - Find the right commands you need without digging through the web.",
                 "description": "",
                 "url": "https://gitexplorer.com/"
+            },{
+                "title": "DevOps Exercises",
+                "excerpt": "Github list of devops exercises",
+                "description": "",
+                "url": "https://github.com/bregman-arie/devops-exercises"
+            },{
+                "title": "The complete faang preparation",
+                "excerpt": "Interview preparation for FAANG",
+                "description": "",
+                "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"
             }
         ]
     },
@@ -338,7 +348,7 @@
         "title": "Git",
         "links": [
             {
-                "title": "Learn Git Branhcing",
+                "title": "Learn Git Branching",
                 "excerpt": "Git branching tutorial",
                 "description": "Git branching tutorial",
                 "url": "https://learngitbranching.js.org/"
@@ -1354,6 +1364,11 @@
                 "excerpt": "LIst of public apis",
                 "description": "",
                 "url": "https://github.com/public-apis/public-apis"
+            },{
+                "title": "WebDev for beginners",
+                "excerpt": "Microsoft guide for webdev beginners on github",
+                "description": "",
+                "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
             }
         ]
     }
