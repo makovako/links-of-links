@@ -346,6 +346,28 @@
         ]
     },
     {
+        "topic": "games",
+        "title": "Games",
+        "links": [
+            {
+                "title": "OpenRa",
+                "excerpt": "OpenRA is an open source project that recreates and modernizes classic real time strategy games",
+                "description": "",
+                "url": "https://www.openra.net/"
+            },{
+                "title": "OpenTTD",
+                "excerpt": "Open source simulation game based upon Transport Tycoon Deluxe",
+                "description": "",
+                "url": "https://www.openttd.org/"
+            },{
+                "title": "FreeOrion",
+                "excerpt": "Turn-based space empire and galactic conquest game",
+                "description": "",
+                "url": "https://www.freeorion.org/index.php/Main_Page"
+            }
+        ]
+    },
+    {
         "topic": "hacking",
         "title": "Hacking",
         "links": [
@@ -698,6 +720,18 @@
         ]
     },
     {
+        "topic": "podcast",
+        "title": "Podcast",
+        "links": [
+            {
+                "title": "Podchaser",
+                "excerpt": "Your Daily Source for Podcast Discovery",
+                "description": "Uncover the latest Podcasts, Ratings & Reviews, Guest Appearances, Curated Lists, and more!",
+                "url": "https://www.podchaser.com/"
+            }
+        ]
+    },
+    {
         "topic": "privacy",
         "title": "Privacy",
         "links": [
@@ -797,6 +831,11 @@
                 "excerpt": "Try apl programming language in browser",
                 "description": "",
                 "url": "https://tryapl.org/"
+            },{
+                "title": "Crafting Interpreters",
+                "excerpt": "Crafting Interpreters contains everything you need to implement a full-featured, efficient scripting language.",
+                "description": "",
+                "url": "https://www.craftinginterpreters.com/"
             }
         ]
     },
@@ -1053,6 +1092,11 @@
                 "excerpt": "Hotel with rooms in a jumbo plane",
                 "description": "",
                 "url": "http://www.jumbostay.com/"
+            },{
+                "title": "Espatriati",
+                "excerpt": "Foreign property market listings and services",
+                "description": "",
+                "url": "https://espatriati.com/"
             }
         ]
     },
