@@ -61,6 +61,11 @@
                 "excerpt": "Comic about history of Google chrome",
                 "description": "",
                 "url": "https://www.google.com/googlebooks/chrome/med_00.html"
+            },{
+                "title": "Javascript code snippets",
+                "excerpt": "65+ javascript code snippets in a book",
+                "description": "",
+                "url": "https://simonhoiberg.com/"
             }
         ]
     },
@@ -909,6 +914,11 @@
                 "excerpt": "Any YouTUbe channel recommendations",
                 "description": "",
                 "url": "https://www.reddit.com/r/raspberry_pi/comments/nkfok7/any_youtube_channel_recommendations_wiring/"
+            },{
+                "title": "Stream Pi",
+                "excerpt": "stream deck alternative to execute command remotly from rpi",
+                "description": "",
+                "url": "https://stream-pi.com/"
             }
         ]
     },
@@ -1051,6 +1061,11 @@
                 "excerpt": "RSS frontend that looks like old newspapers",
                 "description": "",
                 "url": "https://github.com/MatthK/Selfoss-Webfront"
+            },{
+                "title": "Authentik",
+                "excerpt": "Centrilezed user management and aaa",
+                "description": "",
+                "url": "https://goauthentik.io/"
             }
             
         ]
