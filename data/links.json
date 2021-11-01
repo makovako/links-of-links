@@ -281,6 +281,11 @@
                 "excerpt": "Does anyone have a complete PDF copy of a major encyclopedia, such as the Encyclopedia Brittanica, from before the First World War?",
                 "description": "",
                 "url": "https://www.reddit.com/r/DataHoarder/comments/mc5ri7/does_anyone_have_a_complete_pdf_copy_of_a_major/"
+            },{
+                "title": "Simplest sorting algorithm",
+                "excerpt": "Research paper about the simplest sorting algorithm",
+                "description": "",
+                "url": "https://arxiv.org/abs/2110.01111"
             }
 
         ]
@@ -357,6 +362,11 @@
                 "excerpt": "Git branching tutorial",
                 "description": "Git branching tutorial",
                 "url": "https://learngitbranching.js.org/"
+            },{
+                "title": "Oh shit, git!",
+                "excerpt": "Useful git commands to fix when something goes wrong",
+                "description": "",
+                "url": "https://ohshitgit.com/"
             }
         ]
     },
@@ -760,6 +770,11 @@
                 "excerpt": "Article on HN",
                 "description": "",
                 "url": "https://news.ycombinator.com/item?id=26715644"
+            },{
+                "title": "Facebook papers",
+                "excerpt": "Wall Street Journal articles about Facebook",
+                "description": "",
+                "url": "https://web.archive.org/web/20211005111824/https://www.wsj.com/articles/the-facebook-files-11631713039"
             }
         ]
     },
@@ -851,6 +866,11 @@
                 "excerpt": "Crafting Interpreters contains everything you need to implement a full-featured, efficient scripting language.",
                 "description": "",
                 "url": "https://www.craftinginterpreters.com/"
+            },{
+                "title": "Building browser egnien",
+                "excerpt": "Blog series about building a webbrowser engine",
+                "description": "",
+                "url": "https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html"
             }
         ]
     },
@@ -1066,6 +1086,16 @@
                 "excerpt": "Centrilezed user management and aaa",
                 "description": "",
                 "url": "https://goauthentik.io/"
+            },{
+                "title": "CapRover",
+                "excerpt": "Selfhosted PaaS",
+                "description": "",
+                "url": "https://caprover.com/"
+            },{
+                "title": "Selfhosted security",
+                "excerpt": "Securing your selfhosted services",
+                "description": "",
+                "url": "https://github.com/justSem/r-selfhosted-security"
             }
             
         ]
@@ -1254,6 +1284,16 @@
                 "excerpt": "Demo site of annoying features on the websites",
                 "description": "",
                 "url": "https://how-i-experience-web-today.com/"
+            },{
+                "title": "CSS Diner",
+                "excerpt": "CSS learning game",
+                "description": "",
+                "url": "https://flukeout.github.io/"
+            },{
+                "title": "Stack Share",
+                "excerpt": "Share technology stacks that various companies are using",
+                "description": "",
+                "url": "https://stackshare.io/"
             }
         ]
     },
@@ -1384,6 +1424,21 @@
                 "excerpt": "Microsoft guide for webdev beginners on github",
                 "description": "",
                 "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
+            },{
+                "title": "136 facts",
+                "excerpt": "136 facts every webdev should know",
+                "description": "",
+                "url": "https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/"
+            },{
+                "title": "Web skills",
+                "excerpt": "Webdev roadmap",
+                "description": "",
+                "url": "https://andreasbm.github.io/web-skills/?compact"
+            },{
+                "title": "Webdev toolkit",
+                "excerpt": "Handpicked tools/resources/libraries/projects for web devs and designers",
+                "description": "",
+                "url": "https://toolkit.addy.codes/"
             }
         ]
     }
