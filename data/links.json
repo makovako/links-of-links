@@ -66,6 +66,21 @@
                 "excerpt": "65+ javascript code snippets in a book",
                 "description": "",
                 "url": "https://simonhoiberg.com/"
+            },{
+                "title": "Extreme privacy: Michael Bazzell",
+                "excerpt": "Extreme privacy: what it takes to disappear",
+                "description": "",
+                "url": "https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear/dp/B094LDWKGZ"
+            },{
+                "title": "Theoretical cs cheatsheet",
+                "excerpt": "Theoretical computer science cheatsheet (math formulas,...)",
+                "description": "",
+                "url": "https://www.tug.org/texshowcase/cheat.pdf"
+            },{
+                "title": "The art of unix programming",
+                "excerpt": "The art of Unix programming by Eric S. Raymond",
+                "description": "",
+                "url": "http://catb.org/esr/writings/taoup/html/graphics/taoup.pdf"
             }
         ]
     },
@@ -149,8 +164,8 @@
                 "description": "",
                 "url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886"
             },{
-                "title": "How to design website for beginers",
-                "excerpt": "Turn your website desing into a repeatable process",
+                "title": "How to design website for beginners",
+                "excerpt": "Turn your website design into a repeatable process",
                 "description": "",
                 "url": "https://www.oakharborwebdesigns.com/blog/articles/how-to-design-a-website.html#blog-post"
             },{
@@ -163,6 +178,11 @@
                 "excerpt": "Book and blog about better UI",
                 "description": "",
                 "url": "https://www.refactoringui.com"
+            },{
+                "title": "UIUI.dev",
+                "excerpt": "Collection of ui ideas",
+                "description": "",
+                "url": "https://www.uiui.dev/"
             }
         ]
     },
@@ -367,6 +387,11 @@
                 "excerpt": "Useful git commands to fix when something goes wrong",
                 "description": "",
                 "url": "https://ohshitgit.com/"
+            },{
+                "title": "Git workflow example",
+                "excerpt": "git workflow example in some company",
+                "description": "",
+                "url": "https://riskledger.com/blog/git-basics-at-risk-ledger/"
             }
         ]
     },
@@ -389,6 +414,11 @@
                 "excerpt": "Turn-based space empire and galactic conquest game",
                 "description": "",
                 "url": "https://www.freeorion.org/index.php/Main_Page"
+            },{
+                "title": "CodeCombat",
+                "excerpt": "Learning how to program for kids by making game",
+                "description": "",
+                "url": "https://codecombat.com/"
             }
         ]
     },
@@ -424,6 +454,17 @@
                 "excerpt": "Smart storage ideas for small homes - Youtube Video",
                 "description": "",
                 "url": "https://www.youtube.com/watch?v=mjkFrqPejyU"
+            }
+        ]
+    },{
+        "topic": "hobbies",
+        "title": "Hobbies",
+        "links": [
+            {
+                "title": "Music theory",
+                "excerpt": "Youtube playlist about music theory",
+                "description": "",
+                "url": "https://www.youtube.com/playlist?list=PL5j5H06QkhxE0RK-Ormp3zgf5SGJ28zsj"
             }
         ]
     },
@@ -584,6 +625,11 @@
                 "excerpt": "Reddit user tip for using firefox on wayland",
                 "description": "",
                 "url": "https://www.reddit.com/r/archlinux/comments/ozubo9/using_firefox_on_wayland_make_sure_you_have_moz/"
+            },{
+                "title": "Bash oneliners",
+                "excerpt": "Oneline examples of bash commands",
+                "description": "",
+                "url": "https://pastebin.com/9itu8v0w"
             }
         ]
     },
@@ -888,6 +934,16 @@
                 "excerpt": "Multiplatform aplication framework",
                 "description": "Kivy - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.",
                 "url": "https://kivy.org/#home"
+            },{
+                "title": "Ugit",
+                "excerpt": "Creating git in python game",
+                "description": "",
+                "url": "https://www.leshenko.net/p/ugit/#"
+            },{
+                "title": "Python builtins",
+                "excerpt": "Understanding all of python, through its builtins",
+                "description": "",
+                "url": "https://sadh.life/post/builtins/"
             }
         ]
     },
@@ -1096,6 +1152,11 @@
                 "excerpt": "Securing your selfhosted services",
                 "description": "",
                 "url": "https://github.com/justSem/r-selfhosted-security"
+            },{
+                "title": "Nextcloud backup",
+                "excerpt": "How to backup nextcloud example",
+                "description": "",
+                "url": "https://kevq.uk/how-to-backup-nextcloud/"
             }
             
         ]
@@ -1152,6 +1213,16 @@
                 "excerpt": "Foreign property market listings and services",
                 "description": "",
                 "url": "https://espatriati.com/"
+            },{
+                "title": "Norway road lysebotn",
+                "excerpt": "interesting curved road in norway",
+                "description": "",
+                "url": "https://www.fjordnorway.com/things-to-do/lysevegen-road-in-lysebotn-p1799633"
+            },{
+                "title": "Adige valley",
+                "excerpt": "Cycle path through italian alps mostly on bikepaths",
+                "description": "",
+                "url": "https://www.komoot.com/collection/503/on-the-adige-valley-cycle-path-through-south-tyrol"
             }
         ]
     },
@@ -1294,6 +1365,21 @@
                 "excerpt": "Share technology stacks that various companies are using",
                 "description": "",
                 "url": "https://stackshare.io/"
+            },{
+                "title": "Pessimists archive",
+                "excerpt": "Pessimist memories for the past",
+                "description": "",
+                "url": "https://pessimistsarchive.org/"
+            },{
+                "title": "TOSDR",
+                "excerpt": "Terms of service tlds of popular services",
+                "description": "",
+                "url": "https://tosdr.org/"
+            },{
+                "title": "Blockchain demo",
+                "excerpt": "Simpel demo of how blockchain works and its usage",
+                "description": "",
+                "url": "https://andersbrownworth.com/blockchain/"
             }
         ]
     },
@@ -1439,6 +1525,11 @@
                 "excerpt": "Handpicked tools/resources/libraries/projects for web devs and designers",
                 "description": "",
                 "url": "https://toolkit.addy.codes/"
+            },{
+                "title": "Regex mathing HTML",
+                "excerpt": "Explanation why html cannot be matched using regex",
+                "description": "",
+                "url": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags?page=1&tab=votes#tab-top"
             }
         ]
     }
