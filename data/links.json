@@ -83,6 +83,22 @@
                 "url": "http://catb.org/esr/writings/taoup/html/graphics/taoup.pdf"
             }
         ]
+    },{
+        "topic": "cycling",
+        "title": "Cycling",
+        "links": [
+            {
+            "title": "OpeCycleMap.org",
+            "excerpt": "Online cycling map",
+            "description": "",
+            "url": "http://opencyclemap.org/"
+            },{
+                "title": "Cycle.travel",
+                "excerpt": "Map for planing cycling trips",
+                "description": "",
+                "url": "https://cycle.travel/map"
+            }
+        ]
     },
     {
         "topic": "coronavirus",
@@ -630,6 +646,16 @@
                 "excerpt": "Oneline examples of bash commands",
                 "description": "",
                 "url": "https://pastebin.com/9itu8v0w"
+            },{
+                "title": "VIM Cheat Sheet",
+                "excerpt": "Cheat sheet for vim",
+                "description": "",
+                "url": "https://vim.rtorr.com/"
+            },{
+                "title": "SystemD by example",
+                "excerpt": "Examples for possibilities with systemd",
+                "description": "",
+                "url": "https://systemd-by-example.com/"
             }
         ]
     },
