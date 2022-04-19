@@ -32,6 +32,11 @@
                 "excerpt": "The linux experiment blog",
                 "description": "",
                 "url": "https://www.thelinuxexp.com/"
+            },{
+                "title": "Nikita Voloboev",
+                "excerpt": "deep wiki about technology",
+                "description": "",
+                "url": "https://wiki.nikitavoloboev.xyz/"
             }
         ]
     },
@@ -97,6 +102,11 @@
                 "excerpt": "Map for planing cycling trips",
                 "description": "",
                 "url": "https://cycle.travel/map"
+            },{
+                "title": "Knee pain explained",
+                "excerpt": "Cycling knee pain and fixes explained",
+                "description": "",
+                "url": "https://www.bikeradar.com/advice/fitness-and-training/cycling-knee-pain-the-problem-areas/"
             }
         ]
     },
@@ -277,6 +287,11 @@
                 "excerpt": "Interview preparation for FAANG",
                 "description": "",
                 "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"
+            },{
+                "title": "Devops starterpack",
+                "excerpt": "Selfhosted tech starter pack for development of new project or startup",
+                "description": "",
+                "url": "https://github.com/tldr-devops/startpack"
             }
         ]
     },
@@ -294,6 +309,11 @@
                 "excerpt": "Imgur album for building folding bed with sofa",
                 "description": "",
                 "url": "https://imgur.com/gallery/Fx87D"
+            },{
+                "title": "Github issue printer",
+                "excerpt": "I built a receipt printer for GitHub issues",
+                "description": "",
+                "url": "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/"
             }
         ]
     },
@@ -408,6 +428,11 @@
                 "excerpt": "git workflow example in some company",
                 "description": "",
                 "url": "https://riskledger.com/blog/git-basics-at-risk-ledger/"
+            },{
+                "title": "Alternatives to initial commit",
+                "excerpt": "Reddit suggestions",
+                "description": "",
+                "url": "https://www.reddit.com/r/ProgrammerHumor/comments/txu1i1/alternatives_to_initial_commit_go_wild/"
             }
         ]
     },
@@ -715,6 +740,11 @@
                 "excerpt": "Univerzitne videa matematika, fyzika",
                 "description": "",
                 "url": "https://www.startitup.sk/videa/matematik-kubacek-jeho-views-mu-moze-zavidiet-nie-jeden-youtuber-na-online-prednasky-ho-museli-ukecavat/"
+            },{
+                "title": "Eddie Woo",
+                "excerpt": "Math and computers explained simply",
+                "description": "",
+                "url": "https://www.youtube.com/c/misterwootube/videos"
             }
         ]
     },
@@ -847,6 +877,21 @@
                 "excerpt": "Wall Street Journal articles about Facebook",
                 "description": "",
                 "url": "https://web.archive.org/web/20211005111824/https://www.wsj.com/articles/the-facebook-files-11631713039"
+            },{
+                "title": "Google dialer and messages",
+                "excerpt": "Google dialer and messages paper",
+                "description": "",
+                "url": "https://www.theregister.com/2022/03/21/google_messages_gdpr/"
+            },{
+                "title": "10 dumbest ideas in privacy communities",
+                "excerpt": "Wrongs ideas on privacy",
+                "description": "",
+                "url": "https://www.reddit.com/r/PrivacyGuides/comments/rhbik5/10_dumbest_ideas_in_privacy_communities/"
+            },{
+                "title": "How to delete online presence",
+                "excerpt": "Ideas and suggestions",
+                "description": "",
+                "url": "https://www.reddit.com/r/PrivacyGuides/comments/rau37a/deleted_by_user/"
             }
         ]
     },
@@ -893,6 +938,11 @@
                 "excerpt": "Seamless mouseand keyboard between devices",
                 "description": "",
                 "url": "https://github.com/debauchee/barrier"
+            },{
+                "title": "Sonixd",
+                "excerpt": "Subsonic/jellyfin app client",
+                "description": "",
+                "url": "https://github.com/jeffvli/sonixd"
             }
         ]
     },
@@ -943,6 +993,16 @@
                 "excerpt": "Blog series about building a webbrowser engine",
                 "description": "",
                 "url": "https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html"
+            },{
+                "title": "Sha 256 project",
+                "excerpt": "Implement and test sha 256 hash",
+                "description": "",
+                "url": "https://github.com/oconnor663/sha256_project"
+            },{
+                "title": "Documentation system",
+                "excerpt": "Documentation principles",
+                "description": "",
+                "url": "https://documentation.divio.com/"
             }
         ]
     },
@@ -1406,6 +1466,11 @@
                 "excerpt": "Simpel demo of how blockchain works and its usage",
                 "description": "",
                 "url": "https://andersbrownworth.com/blockchain/"
+            },{
+                "title": "Calenday",
+                "excerpt": "Shared online calendars",
+                "description": "",
+                "url": "https://calenday.co/?ref=hn"
             }
         ]
     },
@@ -1556,6 +1621,11 @@
                 "excerpt": "Explanation why html cannot be matched using regex",
                 "description": "",
                 "url": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags?page=1&tab=votes#tab-top"
+            },{
+                "title": "Pipedream",
+                "excerpt": "Connect apis, remarkibly fast",
+                "description": "Easyly create apis",
+                "url": "https://pipedream.com/"
             }
         ]
     }
